@@ -246,4 +246,7 @@ footer {
     .jobs {
         padding-top: 30px;
     }
+    .jobs h2{
+        text-align: center;
+    }
 }
